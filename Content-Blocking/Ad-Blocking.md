@@ -4,4 +4,4 @@
 
 ## Ad Blocking Extensions
 
-**[uBlock Origin](https://github.com/gorhill/uBlock#installation)**✔️
+**[uBlock Origin](https://github.com/gorhill/uBlock#installation)**
