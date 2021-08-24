@@ -21,7 +21,12 @@ _Block Scripts made to stop your adblocker._
 
 **[Adblock Warning Removal List](https://easylist-downloads.adblockplus.org/antiadblockfilters.txt)**
 
+## Bypassers
+_Bypass Link Shortners that make it incredibly dificult to navigate to your link without a dozen ads_
 
+**[AdsBypasser](https://adsbypasser.github.io)**
+
+**[Universal Bypass](https://universal-bypass.org)**
 
 ## iOS
 _Note: "🔓" means the method requires a jailbroken iDevice._
